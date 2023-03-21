@@ -1,6 +1,4 @@
-# engaged (engaged)
-
-vue3 with quasar
+# Vue3 with Quasar
 
 ## Install the dependencies
 ```bash
